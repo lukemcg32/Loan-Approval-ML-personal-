@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+statsmodels
+word2vec
+# tensorflow -- will have to do later
