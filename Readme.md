@@ -1,9 +1,9 @@
-### Loan Approval Machine Learning Project ###
+# Loan Approval Machine Learning Project #
 
 **IN PROGRESS**
 
 
-# TO DO LIST #
+### TO DO LIST ###
 
 - create a correlation matrix for multiple categories affecting aprroval/denial
 - use word2vec to process text inputs
