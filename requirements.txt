@@ -7,4 +7,5 @@ torch
 torchvision
 statsmodels
 word2vec
+plotly
 # tensorflow -- will have to do later
