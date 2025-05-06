@@ -6,6 +6,7 @@ scikit-learn
 torch
 torchvision
 statsmodels
-word2vec
 plotly
+gensim
+nltk
 # tensorflow -- will have to do later
