@@ -9,4 +9,7 @@ statsmodels
 plotly
 gensim
 nltk
-# tensorflow -- will have to do later
+tensorflow
+# re
+# string
+# pip install -r requirements.txt
