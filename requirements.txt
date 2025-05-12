@@ -10,6 +10,6 @@ plotly
 gensim
 nltk
 tensorflow
-# re
-# string
+joblib
+streamlit
 # pip install -r requirements.txt
